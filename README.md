@@ -46,7 +46,3 @@ The model learns to extract facial features and compute similarity scores betwee
 ## Author
 
 Youssef M. Allam
-
-## License
-
-MIT License
